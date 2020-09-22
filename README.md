@@ -11,20 +11,20 @@ App for Tracking Objects sent by "Correios" from Brazil or abroad to Brazil.<br 
 - AWS API Gateway<br />
 
 
-<b>Class BuscaAtualizacao</b><br />
+## Class BuscaAtualizacao
 - Used to search for updates to objects being tracked by app users and to process objects that will be searched for updates to objects being tracked.
 
-<b>Class MyDbContext</b><br />
+## Class MyDbContext
 - Method used to access the database.
 
-<b>Class Util</b><br />
+## Class Util
 - Class with methods used by other methods, thus creating only one method and reusing it several times.
 
-<b>Folder Controllers</b><br />
+## Folder Controllers
 - Methods used as API path, where the class name represents the API that will be created.
   
-<b>Folder Models</b><br />
+## Folder Models
 - Methods used as models to access the database and be returned in APIs.
 
-  
- 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
