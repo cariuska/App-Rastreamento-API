@@ -1,5 +1,6 @@
 # App-Rastreamento-API
 Rest API for App Rastreamento.<br />
+App for Tracking Objects sent by "Correios" from Brazil or abroad to Brazil.<br />
 <br />
 <b>Using</b>:<br />
 - .Net Core<br />
